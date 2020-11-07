@@ -7,7 +7,7 @@ $APPLICATION->SetTitle("Услуги");
 	array(
 		"COMPONENT_TEMPLATE" => ".default",
 		"WEB_FORM_ID" => "1",
-		"IGNORE_CUSTOM_TEMPLATE" => "N",
+		"IGNORE_CUSTOM_TEMPLATE" => "Y",
 		"USE_EXTENDED_ERRORS" => "N",
 		"SEF_MODE" => "N",
 		"CACHE_TYPE" => "A",

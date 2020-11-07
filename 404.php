@@ -17,6 +17,6 @@ $APPLICATION->SetTitle("404 Not Found");
 	)
 );*/
 ?>
-Page not found, купите сок!
+Page not found, попробуйте перейти на другую страницу или купите уже наш мерч!
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
